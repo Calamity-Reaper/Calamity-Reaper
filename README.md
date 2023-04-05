@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calamity-Reaper
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning ReactJS, TypeScript, Redux
+- 👀 I’m interested in frontend and backend development
+- 🌱 I’m currently learning ReactJS, TypeScript, Redux, NodeJs, Express and NestJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
